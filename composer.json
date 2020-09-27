@@ -18,7 +18,7 @@
     "require": {
         "php": "^7.2",
         "illuminate/support": "~5.8.0|^6.0|^7.0|^8.0",
-        "spatie/laravel-webhook-client": "dev-l8",
+        "dzidor/laravel-webhook-client": "dev-l8",
         "stripe/stripe-php": "^5.2|^6.0|^7.0"
     },
     "require-dev": {
